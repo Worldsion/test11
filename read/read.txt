@@ -1,2 +1,3 @@
-hello git ,i am worldsion,oh no!!!i modify  £¬sorry i change one more time
+﻿hello git ,i am worldsion,oh no!!!i modify  £¬sorry i change one more time
 to newbranch~~~ change one time
+test git status
